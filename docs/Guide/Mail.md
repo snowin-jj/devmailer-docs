@@ -20,13 +20,21 @@ POST /sendmail
 
 #### Parameters
 
-| param   | Description         | Required |
-| ------- | ------------------- | -------- |
-| from    | Sender name         | true     |
-| to      | Recevier email ID   | true     |
-| subject | Subject of the mail | true     |
-| message | Body of the mail    | true     |
+- Query Parameter
+    
+    | param   | Description         | Required |
+    | ------- | ------------------- | -------- |
+    | apikey  | Your Api Key        | true     |
+
+- Body
+
+    | param   | Description         | Required |
+    | ------- | ------------------- | -------- |
+    | from    | Sender name         | true     |
+    | to      | Recevier email ID   | true     |
+    | subject | Subject of the mail | true     |
+    | body    | Body of the mail    | true     |
 
 
 ## <span>⚠️</span>Note: 
-Message can be <i><u>html</u></i>
+Body can be <i><u>html</u></i>

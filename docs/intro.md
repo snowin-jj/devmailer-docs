@@ -12,13 +12,13 @@ Let's discover about **Dev Mailer in less than 5 minutes**.
 Let's get started!
 
 ### 1. Create a new account
-- Go to the <a href="https://devmailer.vercel.app/" target="_blank">DevMailer official site</a>.
+- Go to the <a href="https://devmailer.vercel.app/" target="_blank">DevMailer Website</a>.
 
 - Click on **Get started**
 
 ![instruction image](./img/home.png)
 
-### 2. Complete the registration
+### 2. Complete the signin
 
 ![instruction image](./img/signin.png)
 

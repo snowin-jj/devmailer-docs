@@ -2,17 +2,16 @@
 sidebar_position: 1
 ---
 
-Let's see an example
+### Live Demo: 
+>Replit: https://replit.com/@SnowinJ/devmailer-example?v=1
 
-**POST** mail
-
-#### Request URL
+### Request URL
 
 ```
-https://devmailer.vercel.app/api/sendmail?apikey=j2hvs2@sh2872092ue12seQ3
+https://devmailer.vercel.app/api/sendmail?apikey=YOUR_API_KEY
 ```
 
-#### Response
+### Responses
 
 **Status:** 200 Ok
 
@@ -36,5 +35,13 @@ https://devmailer.vercel.app/api/sendmail?apikey=j2hvs2@sh2872092ue12seQ3
     },
     "messageId": "<d82a679b-c26f-a5c6-5acf-20f9381301b5d@test.com>"
   }
+}
+```
+
+**Status:** 401 Unauthorized
+
+```json
+{
+  "message": "Invalid key",
 }
 ```
