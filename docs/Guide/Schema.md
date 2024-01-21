@@ -29,7 +29,7 @@ If an error occurs, whether on the server or client side, the error message(s) w
 
 ```JSON
     {
-        "message": "from, to, subject, body - these fields are required!",
+        "message": "Payload is empty. Please you have provide the required fields correctly!",
     }
 ```
 
@@ -40,4 +40,4 @@ If an error occurs, whether on the server or client side, the error message(s) w
 | 401 - Unauthorized  | Invalid Access Token                                                    |
 | 403 - Forbidden     | Missing permissions to perform request                                  |
 | 404 - Not Found     | The requested resource doesn’t exist                                    |
-| 500, 503            | Something went wrong on our end                                         |
+| 500, 503            | Something went wrong on server                                          |
