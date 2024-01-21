@@ -2,4 +2,4 @@
 sidebar_position: 3
 ---
 
-You can send 100 requests per day.
+You can send 50 requests per hour.

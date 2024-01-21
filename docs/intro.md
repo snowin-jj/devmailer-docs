@@ -1,37 +1,17 @@
 ---
 slug: /
 sidebar_position: 1
+title: Introduction
 ---
 
-# 🚀 Getting Started
+# What is devmailer?
 
-Let's discover about **Dev Mailer in less than 5 minutes**.
+Dev mailer is an authentic API service designed to help developers. Are you struggling to integrate the mail service into your application? Dev mailer is here to solve the problem. Want to send emails to your clients? You can count on Dev mailer to help you with that too. Dev mailer is a reliable API service that can help you integrate your mail.
 
-## Steps to follow 📖
+## Send emails faster
 
-Let's get started!
+DevMailer helps developers send mail with a single line of code.
 
-### 1. Create a new account
-- Go to the <a href="https://devmailer.vercel.app/" target="_blank">DevMailer Website</a>.
+### What do you need?
 
-- Click on **Get started**
-
-![instruction image](./img/home.png)
-
-### 2. Complete the signin
-
-![instruction image](./img/signin.png)
-
-### 3. You will be redirected to the dashboord
-
-![instruction image](./img/dashboard.png)
-
-### 4. Here you can find your api key
-
-![instruction image](./img/dashboard-api.png)
-
-Store the api key in ``.env`` file safely.
-
-### That's all, You are good to go 🥳 !
-
-> For any help contact: hello.devmailer@gmail.com
+Get a `key` and send a `request`. That's it! You're good to go.
